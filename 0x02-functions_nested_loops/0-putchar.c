@@ -3,7 +3,7 @@
 /**
  * main-entry point for program
  *
- * Description:print _putchar
+ * _putchar:user-defined function to
  *
  * Return-return 0 (success)
  */
