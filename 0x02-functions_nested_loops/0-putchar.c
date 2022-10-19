@@ -4,6 +4,7 @@
  * main-entry point for program
  *
  * Description:print _putchar
+ *
  * Return-return 0 (success)
  */
 
