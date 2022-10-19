@@ -3,7 +3,7 @@
 /**
  * main-entry point for program
  * _putchar:user-defined function to print _putchar
- * Return-return 0 (success)
+ * Return:return 0 (success)
  */
 int main(void)
 {
